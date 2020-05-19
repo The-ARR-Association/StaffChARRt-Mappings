@@ -1,0 +1,4 @@
+CLASS dev/joshualovescode/ultrastaffchat/a/XLkMV dev/joshualovescode/ultrastaffchat/commands/BungeeStaffChat
+	FIELD rMvHZ main Ldev/joshualovescode/ultrastaffchat/UltraStaffChat;
+	METHOD rMvHZ generateAdvancedDebugLog ()V
+	METHOD rMvHZ writeDebugFile (Ljava/io/File;[Ljava/lang/String;)V

@@ -1,0 +1,5 @@
+CLASS dev/joshualovescode/ultrastaffchat/UltraStaffChat
+	FIELD kCdTo config Lnet/md_5/bungee/config/Configuration;
+	METHOD SMpXW reloadConfig ()V
+	METHOD kCdTo getInstance ()Ldev/joshualovescode/ultrastaffchat/UltraStaffChat;
+	METHOD rMvHZ getConfig ()Lnet/md_5/bungee/config/Configuration;

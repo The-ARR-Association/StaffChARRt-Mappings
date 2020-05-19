@@ -1,0 +1,4 @@
+CLASS dev/joshualovescode/ultrastaffchat/c/spQDI dev/joshualovescode/ultrastaffchat/utils/PlayerUtils
+	METHOD IUMRL addAFKPlayer (Lnet/md_5/bungee/api/connection/ProxiedPlayer;)V
+	METHOD XOToD removeAFKPlayer (Lnet/md_5/bungee/api/connection/ProxiedPlayer;)V
+	METHOD xKtfz isAFKPlayer (Lnet/md_5/bungee/api/connection/ProxiedPlayer;)Z

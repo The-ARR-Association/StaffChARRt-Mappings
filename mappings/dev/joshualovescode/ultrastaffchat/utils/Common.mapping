@@ -1,0 +1,4 @@
+CLASS dev/joshualovescode/ultrastaffchat/c/KCWxy dev/joshualovescode/ultrastaffchat/utils/Common
+	FIELD SMpXW pluginLink Ljava/lang/String;
+	METHOD QZNQy pMsg (Ljava/lang/String;)Lnet/md_5/bungee/api/chat/TextComponent;
+	METHOD kCdTo sendMessage (Ljava/lang/String;)V
