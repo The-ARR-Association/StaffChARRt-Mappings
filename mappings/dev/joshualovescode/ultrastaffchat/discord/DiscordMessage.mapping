@@ -1,0 +1,10 @@
+CLASS dev/joshualovescode/ultrastaffchat/c/WLwYV dev/joshualovescode/ultrastaffchat/discord/DiscordMessage
+	FIELD SMpXW username Ljava/lang/String;
+	FIELD kCdTo line Ljava/lang/String;
+	FIELD mtvXR embeds Ljava/util/List;
+	METHOD kCdTo setUsername (Ljava/lang/String;)V
+	METHOD rMvHZ addLine (Ldev/joshualovescode/ultrastaffchat/c/WLwYV$KCWxy;)V
+	METHOD rMvHZ setLine (Ljava/lang/String;)V
+	CLASS KCWxy Embed
+	CLASS spQDI
+		METHOD rMvHZ quote (Ljava/lang/String;)Ljava/lang/String;

@@ -1,0 +1,2 @@
+CLASS dev/joshualovescode/ultrastaffchat/b/KCWxy dev/joshualovescode/ultrastaffchat/listeners/ChatEventListener
+	FIELD ultraStaffChat plugin Ldev/joshualovescode/ultrastaffchat/UltraStaffChat;

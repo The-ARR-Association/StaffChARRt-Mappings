@@ -1,0 +1,12 @@
+CLASS dev/joshualovescode/ultrastaffchat/c/XLkMV dev/joshualovescode/ultrastaffchat/utils/VersionUtil
+	FIELD SMpXW semVer Ljava/lang/String;
+	FIELD kCdTo configOutdated Ljava/lang/Boolean;
+	FIELD kHdSZ version Ljava/lang/Integer;
+	FIELD rMvHZ pluginOutdated Ljava/lang/Boolean;
+	METHOD SMpXW setVersion ()V
+	METHOD kCdTo verifyPluginVersion ()V
+	METHOD kCdTo logConfigOutdated (Ljava/lang/Boolean;)V
+		ARG 0 configOutdated
+	METHOD rMvHZ init ()V
+	METHOD rMvHZ logPluginOutdated (Ljava/lang/Boolean;)V
+		ARG 0 pluginOutdated

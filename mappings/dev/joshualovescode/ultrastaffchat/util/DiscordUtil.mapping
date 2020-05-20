@@ -1,0 +1,3 @@
+CLASS dev/joshualovescode/ultrastaffchat/c/DGjgT dev/joshualovescode/ultrastaffchat/util/DiscordUtil
+	FIELD rMvHZ plugin Ldev/joshualovescode/ultrastaffchat/UltraStaffChat;
+	METHOD rMvHZ init (Ljava/lang/String;)V

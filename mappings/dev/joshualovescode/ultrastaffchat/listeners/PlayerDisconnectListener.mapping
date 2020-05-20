@@ -1,0 +1,4 @@
+CLASS dev/joshualovescode/ultrastaffchat/b/YZyRM dev/joshualovescode/ultrastaffchat/listeners/PlayerDisconnectListener
+	FIELD ultraStaffChat plugin Ldev/joshualovescode/ultrastaffchat/UltraStaffChat;
+	METHOD onLeave (Lnet/md_5/bungee/api/event/PlayerDisconnectEvent;)V
+		ARG 1 event

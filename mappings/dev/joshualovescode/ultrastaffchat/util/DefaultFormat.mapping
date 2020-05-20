@@ -1,0 +1,3 @@
+CLASS dev/joshualovescode/ultrastaffchat/c/GWzwl dev/joshualovescode/ultrastaffchat/util/DefaultFormat
+	METHOD rMvHZ format (Ljava/lang/String;)Ljava/lang/String;
+	METHOD rMvHZ format (Lnet/md_5/bungee/api/connection/ProxiedPlayer;Ljava/lang/String;)Ljava/lang/String;

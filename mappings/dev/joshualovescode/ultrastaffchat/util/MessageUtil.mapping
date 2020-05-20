@@ -1,0 +1,5 @@
+CLASS dev/joshualovescode/ultrastaffchat/c/jroDE dev/joshualovescode/ultrastaffchat/util/MessageUtil
+	METHOD kCdTo announceLeave (Lnet/md_5/bungee/api/connection/ProxiedPlayer;)V
+	METHOD rMvHZ sendMessage (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+	METHOD rMvHZ sendMessage (Lnet/md_5/bungee/api/connection/ProxiedPlayer;Ljava/lang/String;)V
+	METHOD rMvHZ announceSwitch (Lnet/md_5/bungee/api/connection/ProxiedPlayer;Ljava/lang/String;Ljava/lang/String;)V

@@ -1,0 +1,3 @@
+CLASS dev/joshualovescode/ultrastaffchat/b/spQDI dev/joshualovescode/ultrastaffchat/listeners/PlayerJoinListener
+	METHOD onJoin (Lnet/md_5/bungee/api/event/PostLoginEvent;)V
+		ARG 1 event

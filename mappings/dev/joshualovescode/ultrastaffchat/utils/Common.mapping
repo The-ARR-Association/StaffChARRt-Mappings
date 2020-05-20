@@ -1,4 +1,12 @@
 CLASS dev/joshualovescode/ultrastaffchat/c/KCWxy dev/joshualovescode/ultrastaffchat/utils/Common
+	FIELD QZNQy marketplaceLink Ljava/lang/String;
 	FIELD SMpXW pluginLink Ljava/lang/String;
+	FIELD kCdTo resourceId Ljava/lang/String;
+	FIELD kHdSZ error Ljava/lang/String;
+	FIELD rMvHZ prefix Ljava/lang/String;
 	METHOD QZNQy pMsg (Ljava/lang/String;)Lnet/md_5/bungee/api/chat/TextComponent;
 	METHOD kCdTo sendMessage (Ljava/lang/String;)V
+	METHOD kHdSZ colorize (Ljava/lang/String;)Ljava/lang/String;
+	METHOD rMvHZ getColorForSeverity (J)Ljava/lang/String;
+		ARG 0 severity
+	METHOD rMvHZ log (Ljava/lang/String;)V
